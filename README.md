@@ -182,13 +182,6 @@ Includes:
 * Handling layered storage systems
 * Real-world concept behind Docker storage
 
----
-
-## 🧑‍💻 Authors
-
-* Team of 3 (Mini-UnionFS Project)
-
----
 
 ## 📌 Notes
 
@@ -199,9 +192,3 @@ fusermount -u mnt
 ```
 
 ---
-
-## ⭐ Final Status
-
-✔ Fully functional
-✔ Passes all test cases
-✔ Ready for submission
